@@ -29,14 +29,4 @@ cd mini-swe-agent && pip install -e .
 mini  # run the CLI
 ```
 
-Read more in our [documentation](https://mini-swe-agent.com/latest/):
-
-* [Quick start guide](https://mini-swe-agent.com/latest/quickstart/)
-* [Using the `mini` CLI](https://mini-swe-agent.com/latest/usage/mini/)
-* [Global configuration](https://mini-swe-agent.com/latest/advanced/global_configuration/)
-* [Yaml configuration files](https://mini-swe-agent.com/latest/advanced/yaml_configuration/)
-* [Power up with the cookbook](https://mini-swe-agent.com/latest/advanced/cookbook/)
-* [FAQ](https://mini-swe-agent.com/latest/faq/)
-* [Contribute!](https://mini-swe-agent.com/latest/contributing/)
-
 
